@@ -1,7 +1,7 @@
 Hypermegacube
 =============
 
-Calculates dimensions (in servers) of perfect cubes in varying sizes made of 19-inch rack servers. 
+[Calculates dimensions](src/Main.java) (in servers) of perfect cubes in varying sizes made of [19-inch rack servers](https://en.wikipedia.org/wiki/Rack_unit). 
 
 This is the underpinning of the Hypermegacube project, intended to provide every child in the world with their own emulated Nintendo Gamecube console, hosted on an emulator inside a huge, monumental structure made of commodity server equipment. 
 
